@@ -1,0 +1,14 @@
+employee_staff_number,employee_name,profession,job_title,manager_staff_number
+1,Alice Smith,Data Science,Lead Data Scientist,3
+2,Bob Brown,Data Science,Senior Data Scientist,1
+3,Charlie Davis,Data Science,Head of Data Science,
+4,Dana Jones,Data Science,Data Scientist,2
+5,Eve Thompson,User Research,Lead User Researcher,7
+6,Frank White,User Research,Senior User Researcher,5
+7,Grace Green,User Research,Head of User Research,
+8,Henry Black,Software Development,Lead Software Developer,10
+9,Ivy Blue,Software Development,Senior Software Developer,8
+10,Jack Red,Software Development,Head of Software Development,
+11,Kate Silver,Technical Architect,Lead Technical Architect,13
+12,Liam Gold,Technical Architect,Senior Technical Architect,11
+13,Mike Bronze,Technical Architect,Head of Technical Architecture,
